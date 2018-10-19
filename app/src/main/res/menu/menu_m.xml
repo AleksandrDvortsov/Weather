@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+
+    >
+
+    <item
+        android:id="@+id/cityDnepr"
+        app:showAsAction="never"
+        android:title="Dnepr"
+
+        />
+    <item
+        android:id="@+id/cityKharkiv"
+        app:showAsAction="never"
+        android:title="Kharkiv"
+        />
+    <item
+        android:id="@+id/cityLviv"
+        app:showAsAction="never"
+        android:title="Lviv"
+        />
+    <item
+        android:id="@+id/cityDubai"
+        app:showAsAction="never"
+        android:title="Dubai"
+        />
+    <item
+        android:id="@+id/cityNovik"
+        app:showAsAction="never"
+        android:title="Novik"
+        />
+</menu>
